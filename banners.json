@@ -1,0 +1,66 @@
+{
+  "updated": "2026-08-30",
+  "target": { "ver": "7.1", "name": "Vesna" },
+  "versions": [
+    {
+      "ver": "7.0",
+      "conf": "идёт сейчас",
+      "start": "2026-08-12",
+      "phases": [
+        {
+          "chars": [["Odette", "Cryo"], ["Arlecchino", "Pyro"]],
+          "weapons": [["Whitelake Frostfeather", "sword"], ["Crimson Moon's Semblance", "polearm"]]
+        },
+        {
+          "chars": [["Flins", "Electro"], ["Ineffa", "Electro"]],
+          "weapons": [["?", "polearm"], ["?", "catalyst"]]
+        }
+      ]
+    },
+    {
+      "ver": "7.1",
+      "conf": "анонс",
+      "start": "2026-09-23",
+      "phases": [
+        {
+          "chars": [["Vesna", "Anemo"], ["Zibai", null]],
+          "weapons": [["?", "sword"], ["?", "catalyst"]]
+        },
+        {
+          "chars": [["Vodyanitsa", "Hydro"], ["Linnea", null]],
+          "weapons": [["?", "catalyst"], ["?", "bow"]]
+        }
+      ]
+    },
+    {
+      "ver": "7.2",
+      "conf": "слив",
+      "start": "2026-11-04",
+      "phases": [
+        {
+          "chars": [["Mitya", "Electro"], ["перевыпуск", null]],
+          "weapons": [["?", "catalyst"], ["?", "sword"]]
+        },
+        {
+          "chars": [["???", null], ["перевыпуск", null]],
+          "weapons": [["?", "claymore"], ["?", "polearm"]]
+        }
+      ]
+    },
+    {
+      "ver": "7.3",
+      "conf": "слив",
+      "start": "2026-12-16",
+      "phases": [
+        {
+          "chars": [["Tsaritsa", "Cryo"], ["Danica", "Electro"]],
+          "weapons": [["?", "catalyst"], ["?", "sword"]]
+        },
+        {
+          "chars": [["???", null], ["перевыпуск", null]],
+          "weapons": [["?", "sword"], ["?", "bow"]]
+        }
+      ]
+    }
+  ]
+}
