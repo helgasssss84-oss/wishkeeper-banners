@@ -7,7 +7,7 @@
       "ver": "7.0",
       "conf": "идёт сейчас",
       "start": "2026-08-12",
-      "content": { "region": true, "regionGems": 9600, "archon": 1, "legend": 2, "world": 10, "note": "Снежная — новый регион, полное исследование мира" },
+      "content": { "explore": 9600, "archon": 1, "legend": 2, "world": 10, "exq": 3, "side": 2, "note": "Снежная — новый регион, полное исследование мира" },
       "phases": [
         {
           "chars": [["Odette", "Cryo"], ["Arlecchino", "Pyro"]],
@@ -23,7 +23,7 @@
       "ver": "7.1",
       "conf": "анонс",
       "start": "2026-09-23",
-      "content": { "region": false, "regionGems": 0, "archon": 1, "legend": 1, "world": 6, "note": "та же Снежная — нового региона нет; данные предварительные" },
+      "content": { "explore": 2500, "archon": 1, "legend": 1, "world": 6, "exq": 1, "side": 2, "note": "новой нации нет, но обычно есть расширение/скрытая зона; прогноз" },
       "phases": [
         {
           "chars": [["Vesna", "Anemo"], ["Zibai", null]],
@@ -39,14 +39,14 @@
       "ver": "7.2",
       "conf": "слив",
       "start": "2026-11-04",
-      "content": { "region": false, "regionGems": 0, "archon": 1, "legend": 1, "world": 6, "note": "нового региона нет; прогноз по сливам" },
+      "content": { "explore": 3000, "archon": 1, "legend": 1, "world": 6, "exq": 1, "side": 2, "note": "вероятно расширение/скрытая зона; прогноз по сливам" },
       "phases": [
         {
-          "chars": [["Mitya", "Electro"], ["перевыпуск", null]],
+          "chars": [["Mitya", "Electro"], ["реран", null]],
           "weapons": [["?", "catalyst"], ["?", "sword"]]
         },
         {
-          "chars": [["???", null], ["перевыпуск", null]],
+          "chars": [["???", null], ["реран", null]],
           "weapons": [["?", "claymore"], ["?", "polearm"]]
         }
       ]
@@ -55,14 +55,14 @@
       "ver": "7.3",
       "conf": "слив",
       "start": "2026-12-16",
-      "content": { "region": false, "regionGems": 0, "archon": 1, "legend": 2, "world": 8, "note": "финал арки Царицы — возможен крупный сюжет; региона нет, прогноз" },
+      "content": { "explore": 5000, "archon": 1, "legend": 2, "world": 8, "exq": 2, "side": 2, "note": "финал арки Царицы — возможна крупная зона/подземелье; прогноз" },
       "phases": [
         {
           "chars": [["Tsaritsa", "Cryo"], ["Danica", "Electro"]],
           "weapons": [["?", "catalyst"], ["?", "sword"]]
         },
         {
-          "chars": [["???", null], ["перевыпуск", null]],
+          "chars": [["???", null], ["реран", null]],
           "weapons": [["?", "sword"], ["?", "bow"]]
         }
       ]
